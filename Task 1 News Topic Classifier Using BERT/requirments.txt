@@ -1,0 +1,7 @@
+transformers
+datasets
+torch
+streamlit
+scikit-learn
+-U datasets
+fsspec==2023.9.2
